@@ -2,7 +2,7 @@
 
 **`Front-End Dev`**
 
-I'm Guilherme Franco, 21 years old, brazilian and currently on 2nd year of Computer Engineering degree.
+I'm a 21-year-old Computer Engineering student in my second year of university, based in Brazil. Currently, I'm focusing on learning web development, improving my skills in HTML, CSS, and JavaScript. I’m passionate about technology and always eager to learn new things.
 
 ---
 
@@ -62,9 +62,6 @@ I'm Guilherme Franco, 21 years old, brazilian and currently on 2nd year of Compu
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=nvrnotfound&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
-
-<br/>
-<br/>
 
 <img 
       align="left" 
