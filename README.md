@@ -63,6 +63,9 @@ I'm Guilherme Franco, 21 years old, brazilian and currently on 2nd year of Compu
     src="https://github-readme-stats.vercel.app/api?username=nvrnotfound&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
 
+<br/>
+<br/>
+
 <img 
       align="left" 
       alt="GitHub Stats" 
