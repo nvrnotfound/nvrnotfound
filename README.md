@@ -60,14 +60,14 @@ I'm a 21-year-old Computer Engineering student in my second year of university, 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=nvrnotfound&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
+    src="https://github-readme-stats.vercel.app/api?username=nvrnotfound&show_icons=true&theme=tokyonight&include_all_commits=true" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvrnotfound&theme=tokyonight&custom_title=Technologies&layout=compact&langs_count=3" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvrnotfound&theme=tokyonight&custom_title=Technologies&layout=compact&langs_count=7" 
   />
 
 </p>
