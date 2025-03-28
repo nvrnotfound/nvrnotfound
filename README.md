@@ -6,7 +6,7 @@ I'm a 21-year-old Computer Engineering student in my second year of university, 
 
 ---
 
-### 🤖 Languages and Technologies
+### 💻 Languages and Technologies
 
 <img 
     align="left" 
@@ -67,7 +67,7 @@ I'm a 21-year-old Computer Engineering student in my second year of university, 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvrnotfound&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvrnotfound&theme=tokyonight&layout=compact&langs_count=3" 
   />
 
 </p>
