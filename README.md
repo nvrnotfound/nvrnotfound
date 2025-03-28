@@ -66,7 +66,7 @@ I'm a 21-year-old Computer Engineering student in my second year of university, 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="100" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvrnotfound&theme=tokyonight&layout=compact&langs_count=3" 
   />
 
