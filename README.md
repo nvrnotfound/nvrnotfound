@@ -48,7 +48,8 @@ I'm a 21-year-old Computer Engineering student in my second year of university, 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
+<br>
+<br>
 <img 
       align="left" 
       alt="GitHub Stats" 
