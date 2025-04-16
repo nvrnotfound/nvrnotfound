@@ -49,20 +49,6 @@ I'm a 21-year-old Computer Engineering student in my second year of university, 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-<br/>
-<br/>
-
-### 📊 Stats
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=nvrnotfound&show_icons=true&theme=tokyonight&include_all_commits=true" 
-  />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
@@ -70,4 +56,6 @@ I'm a 21-year-old Computer Engineering student in my second year of university, 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvrnotfound&theme=tokyonight&custom_title=Technologies&layout=compact&langs_count=7" 
   />
 
-</p>
+
+<br/>
+<br/>
